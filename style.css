@@ -33,7 +33,6 @@ input::placeholder{
     color: #777777;
 }
 #butt{
-    align-items: center;
     background-color:#00FFFF; 
     color: #0A0A0A;
     border-radius: 5px;
